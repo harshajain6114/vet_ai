@@ -1,0 +1,112 @@
+[
+    {
+      "patient_id": "C001",
+      "age": 5,
+      "gender": "Male",
+      "breed": "Siamese",
+      "medical_history": ["Diabetes"],
+      "prescribed_drug": "Glipizide",
+      "treatment_duration": "6 months",
+      "effectiveness": "Stabilized blood sugar",
+      "side_effects": ["Mild lethargy"]
+    },
+    {
+      "patient_id": "C002",
+      "age": 3,
+      "gender": "Female",
+      "breed": "Maine Coon",
+      "medical_history": ["Kidney Disease"],
+      "prescribed_drug": "Benazepril",
+      "treatment_duration": "4 months",
+      "effectiveness": "Improved kidney function",
+      "side_effects": ["Dizziness"]
+    },
+    {
+      "patient_id": "C003",
+      "age": 7,
+      "gender": "Male",
+      "breed": "Persian",
+      "medical_history": ["Obesity"],
+      "prescribed_drug": "Metformin",
+      "treatment_duration": "5 months",
+      "effectiveness": "Weight loss",
+      "side_effects": ["Mild vomiting"]
+    },
+    {
+      "patient_id": "C004",
+      "age": 2,
+      "gender": "Female",
+      "breed": "British Shorthair",
+      "medical_history": ["Anxiety"],
+      "prescribed_drug": "Amitriptyline",
+      "treatment_duration": "3 months",
+      "effectiveness": "Reduced anxiety symptoms",
+      "side_effects": ["Sleepiness"]
+    },
+    {
+      "patient_id": "C005",
+      "age": 10,
+      "gender": "Male",
+      "breed": "Ragdoll",
+      "medical_history": ["Arthritis"],
+      "prescribed_drug": "Meloxicam",
+      "treatment_duration": "8 months",
+      "effectiveness": "Reduced joint pain",
+      "side_effects": ["Loss of appetite"]
+    },
+    {
+      "patient_id": "C006",
+      "age": 6,
+      "gender": "Female",
+      "breed": "Bengal",
+      "medical_history": ["Asthma"],
+      "prescribed_drug": "Theophylline",
+      "treatment_duration": "6 months",
+      "effectiveness": "Fewer asthma attacks",
+      "side_effects": ["Increased heart rate"]
+    },
+    {
+      "patient_id": "C007",
+      "age": 8,
+      "gender": "Male",
+      "breed": "Scottish Fold",
+      "medical_history": ["Heart Disease"],
+      "prescribed_drug": "Atenolol",
+      "treatment_duration": "5 months",
+      "effectiveness": "Stabilized heart condition",
+      "side_effects": ["Lethargy"]
+    },
+    {
+      "patient_id": "C008",
+      "age": 4,
+      "gender": "Female",
+      "breed": "Russian Blue",
+      "medical_history": ["Skin Allergy"],
+      "prescribed_drug": "Prednisolone",
+      "treatment_duration": "2 months",
+      "effectiveness": "Reduced skin itching",
+      "side_effects": ["Increased thirst"]
+    },
+    {
+      "patient_id": "C009",
+      "age": 9,
+      "gender": "Male",
+      "breed": "Sphynx",
+      "medical_history": ["High Blood Pressure"],
+      "prescribed_drug": "Amlodipine",
+      "treatment_duration": "6 months",
+      "effectiveness": "Controlled blood pressure",
+      "side_effects": ["None"]
+    },
+    {
+      "patient_id": "C010",
+      "age": 3,
+      "gender": "Female",
+      "breed": "Abyssinian",
+      "medical_history": ["Urinary Tract Infection"],
+      "prescribed_drug": "Amoxicillin",
+      "treatment_duration": "3 months",
+      "effectiveness": "Cleared infection",
+      "side_effects": ["Upset stomach"]
+    }
+  ]
