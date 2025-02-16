@@ -1,0 +1,5 @@
+Username: JohnDoe_Vet
+Role: Veterinary Data Analyst
+Interests: AI Agents, Pet Healthcare, Veterinary Research
+Location: San Francisco, California
+App Usage: Uses the platform to analyze cat patient data, track treatment effectiveness, and generate health reports.
